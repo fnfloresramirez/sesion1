@@ -1,0 +1,16 @@
+Insights sobre la Distribución de Precios de Laptops:
+
+1. Distribución de Precios por Compañía:
+   - Apple domina el segmento de precios altos, con la mayoría de sus productos por encima de los 1000 euros
+   - HP y Dell ofrecen la gama más amplia de precios, desde opciones económicas hasta modelos premium
+   - Las marcas como Asus y Acer tienen una distribución de precios más concentrada en el rango medio
+
+2. Distribución de Precios por Tipo de Laptop:
+   - Los Ultrabooks son el tipo de laptop más costoso en promedio, reflejando su enfoque en portabilidad y rendimiento
+   - Los Gaming laptops muestran una gran variabilidad en precios, desde opciones económicas hasta modelos de alta gama
+   - Los Notebooks y Netbooks tienen los precios más accesibles, siendo la opción más económica para usuarios básicos
+
+3. Relación entre Tamaño de Pantalla y Precio:
+   - No existe una correlación fuerte entre el tamaño de la pantalla y el precio
+   - Los precios más altos se concentran en laptops de tamaño medio (13-15 pulgadas)
+   - Las laptops más grandes (17+ pulgadas) no necesariamente son las más caras, sugiriendo que otros factores como la marca y especificaciones técnicas tienen mayor impacto en el precio 
